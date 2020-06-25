@@ -1,0 +1,26 @@
+html,body{
+    max-width: 100%;
+    max-height: 100%;
+    overflow: hidden;
+    background-color: #272121;
+    margin: 0;
+}
+canvas{
+    margin: 0%;
+}
+button{
+    display: none;
+    position: absolute;
+    left: 20%;
+    top: 5%;
+}
+#button2{
+    top: 10%;
+}
+#button3{
+    top: 15%;
+}
+#output{
+    position: absolute;
+    top: 200%;
+}
